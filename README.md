@@ -12,7 +12,7 @@ It may help you to research about the Epilepsy.
 
 ## Credit
 
-Code: UEFI
+Code: UEFI, Cookie
 
 ## Cite
 
