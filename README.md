@@ -1,8 +1,10 @@
-# Artificial Neural Network to Simulate the Brain Neural Curcuit
+# Artificial Neural Network to Simulate a fragments of Brain Neural Curcuit
 
 ## Simulate Status
 
-Currently, You can set the ratio of Exciting or Inhibition Neuros Proportion.
+This code is simluating the loop-circuit in the brain cell group.
+
+Currently, You can set the ratio of Exciting (BrainNet2.cu) or Inhibition Neuros Proportion.
 
 ## Usage
 
